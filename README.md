@@ -11,7 +11,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a> 🍊
   - My notes and projects for UIUC's computational photography class (UIUC MCS-DS)
  
-- <a href="https://github.com/reedwrogers/connect-four-ai" Connect 4 AI </a>
+- <a href="https://github.com/reedwrogers/connect-four-ai"> Connect 4 AI </a>
   - Training multiple AI's in different ways to play Connect 4
   
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
